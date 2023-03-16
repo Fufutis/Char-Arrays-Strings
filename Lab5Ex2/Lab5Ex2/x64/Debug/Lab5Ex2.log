@@ -1,0 +1,4 @@
+﻿  LongestLine.cpp
+C:\Users\Fufuchas\source\repos\Semester 2\Lab5Ex2\Lab5Ex2\LongestLine.cpp(11,7): warning C4101: 'longestline': unreferenced local variable
+C:\Users\Fufuchas\source\repos\Semester 2\Lab5Ex2\Lab5Ex2\LongestLine.cpp(45,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab5Ex2.vcxproj -> C:\Users\Fufuchas\source\repos\Semester 2\Lab5Ex2\x64\Debug\Lab5Ex2.exe
